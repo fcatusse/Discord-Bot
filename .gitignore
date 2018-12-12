@@ -1,0 +1,4 @@
+/venv/*
+_app.py
+_memo.txt
+config.py
