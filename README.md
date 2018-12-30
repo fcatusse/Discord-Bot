@@ -1,2 +1,5 @@
 # Discord Bot
-A basic messenger bot in 4 hours :)
+
+Temps alloué : 4h 
+
+Un projet Python de mise en place d'un bot pour le réseau social Discord. Ce bot, très simple, remercie son interlocuteur lorsque ce dernier lui souhaite son anniversaire.
